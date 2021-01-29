@@ -13,10 +13,12 @@ So I've taken some things and software I've lying around or had experience with
 and done it;)
 I took this also as an opportunity to experience my first designing and 3d-printing since I've everything at home for it.
 
-![Image](Images/IMG1.jpg)
-![Image](Images/IMG2.jpg)
-![Image](Images/IMG3.jpg)
-![Image](Images/GIF1.gif)
+![Image1](./Images/IMG1.jpg)
+![Image2](./Images/IMG2.jpg)
+
+![Image3](./Images/IMG3.jpg)
+![Image4](./Images/GIF1.gif)
 
 3D printing TimeLapse
-[![Everything Is AWESOME](Images/Print1.jpg)](https://youtu.be/5PhdjpKD250)
+
+[![3D printing TimeLapse](./Images/Print1.jpg)](https://youtu.be/5PhdjpKD250)
