@@ -10,6 +10,7 @@ So I've taken some things and software I've lying around or had experience with
 * 3D Builder
 * Blender
 * solder wire 
+
 and done it;)
 I took this also as an opportunity to experience my first designing and 3d-printing since I've everything at home for it.
 
